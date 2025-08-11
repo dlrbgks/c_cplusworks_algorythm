@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|solutionrelative:fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|solutionrelative:factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\sosEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|solutionrelative:sosEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\findMaxRand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BCDE53BD-42C9-4E12-9CBC-95E2A96928C9}|Algorythm.vcxproj|solutionrelative:findMaxRand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fibonacci.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\fibonacci.cpp",
+              "RelativeDocumentMoniker": "fibonacci.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\fibonacci.cpp",
+              "RelativeToolTip": "fibonacci.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:35:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "factorial.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\factorial.cpp",
+              "RelativeDocumentMoniker": "factorial.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\factorial.cpp",
+              "RelativeToolTip": "factorial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:13:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sosEx.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\sosEx.cpp",
+              "RelativeDocumentMoniker": "sosEx.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\sosEx.cpp",
+              "RelativeToolTip": "sosEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T07:49:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "findMaxRand.cpp",
               "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\findMaxRand.cpp",
               "RelativeDocumentMoniker": "findMaxRand.cpp",
               "ToolTip": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\findMaxRand.cpp",
               "RelativeToolTip": "findMaxRand.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-11T07:28:14.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "findMaxArray2.cpp",
               "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day26\\Algorythm\\findMaxArray2.cpp",
               "RelativeDocumentMoniker": "findMaxArray2.cpp",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "findMaxArray2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T07:06:14.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T07:06:14.521Z"
             }
           ]
         }
