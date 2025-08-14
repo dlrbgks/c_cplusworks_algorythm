@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\sequentialSearch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:sequentialSearch2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\sequentialSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:sequentialSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\ranking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:ranking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\bubbleSort2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:bubbleSort2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\search2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:search2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\selectionSort2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:selectionSort2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\selectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C904B7A4-0D5D-4D03-8746-F4E588D0EDF0}|Algorythm.vcxproj|solutionrelative:selectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sequentialSearch2.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\sequentialSearch2.cpp",
+              "RelativeDocumentMoniker": "sequentialSearch2.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\sequentialSearch2.cpp",
+              "RelativeToolTip": "sequentialSearch2.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T08:47:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sequentialSearch.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\sequentialSearch.cpp",
+              "RelativeDocumentMoniker": "sequentialSearch.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\sequentialSearch.cpp",
+              "RelativeToolTip": "sequentialSearch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T08:40:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "search2.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\search2.cpp",
+              "RelativeDocumentMoniker": "search2.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\search2.cpp",
+              "RelativeToolTip": "search2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T08:32:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "search.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\search.cpp",
+              "RelativeDocumentMoniker": "search.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\search.cpp",
+              "RelativeToolTip": "search.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T08:24:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ranking.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\ranking.cpp",
+              "RelativeDocumentMoniker": "ranking.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\ranking.cpp",
+              "RelativeToolTip": "ranking.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T08:06:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "selectionSort2.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\selectionSort2.cpp",
+              "RelativeDocumentMoniker": "selectionSort2.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\selectionSort2.cpp",
+              "RelativeToolTip": "selectionSort2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T07:41:11.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "selectionSort.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\selectionSort.cpp",
+              "RelativeDocumentMoniker": "selectionSort.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\selectionSort.cpp",
+              "RelativeToolTip": "selectionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T07:24:35.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bubbleSort2.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\bubbleSort2.cpp",
+              "RelativeDocumentMoniker": "bubbleSort2.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day28\\Algorythm\\bubbleSort2.cpp",
+              "RelativeToolTip": "bubbleSort2.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T07:05:09.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
