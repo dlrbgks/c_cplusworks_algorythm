@@ -1,0 +1,4 @@
+﻿  linkedList_userInput.c
+D:\c_1600_lgh\workplace\day33\DataStructure\linkedList_userInput.c(15,11): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\c_1600_lgh\workplace\day33\DataStructure\linkedList_userInput.c(36,17): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  DataStructure.vcxproj -> D:\c_1600_lgh\workplace\day33\DataStructure\x64\Debug\DataStructure.exe

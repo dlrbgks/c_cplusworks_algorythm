@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stringreverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|solutionrelative:stringreverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackStruct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|solutionrelative:stackStruct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|solutionrelative:stackInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252F364E-E398-45E4-9A54-07A8F3DEE674}|DataStructure.vcxproj|solutionrelative:stackChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringreverse.c",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stringreverse.c",
+              "RelativeDocumentMoniker": "stringreverse.c",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stringreverse.c",
+              "RelativeToolTip": "stringreverse.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-19T08:24:27.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stackStruct.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackStruct.cpp",
+              "RelativeDocumentMoniker": "stackStruct.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackStruct.cpp",
+              "RelativeToolTip": "stackStruct.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-19T07:48:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stackChar.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackChar.cpp",
+              "RelativeDocumentMoniker": "stackChar.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackChar.cpp",
+              "RelativeToolTip": "stackChar.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-19T07:33:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stackInt.cpp",
+              "DocumentMoniker": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackInt.cpp",
+              "RelativeDocumentMoniker": "stackInt.cpp",
+              "ToolTip": "D:\\c_1600_lgh\\workplace\\day31\\DataStructure\\stackInt.cpp",
+              "RelativeToolTip": "stackInt.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-19T07:11:20.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
